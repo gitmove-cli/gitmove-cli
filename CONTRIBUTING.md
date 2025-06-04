@@ -2,20 +2,35 @@
 
 👋 Thanks for your interest in contributing to GitMove!
 
-We’re building something special — and early contributions can shape its future.  
-Right now, GitMove is under active development and **not ready for production use**.
-
-## Contribution Guidelines
-
-- 🛠️ **Open an Issue First**: If you’d like to suggest a feature or fix, please open an issue to discuss it.
-- 🤝 **Be Respectful**: We welcome all contributors. Please follow a respectful and collaborative tone.
-- 🧪 **Experimental Area**: This project is in a prototyping phase. Breaking changes may happen.
-- 🚫 **No Commercial Submissions**: Do not submit or suggest monetized components at this time.
-
-> Contributions may be accepted, modified, or held for later depending on roadmap alignment.
+We’re building something special — and early contributions can help shape its future.  
+This is the official GitHub repository for **GitMove**, currently under active development.  
+Please note: GitMove is not yet production-ready and may undergo breaking changes.
 
 ---
 
-💡 Contributors who shape major features may be acknowledged in future releases.
+## 🚧 Contribution Guidelines
+
+- 🛠️ **Open an Issue First**  
+  Please open a GitHub issue before submitting pull requests for features or fixes.
+
+- 🤝 **Be Respectful**  
+  We welcome all contributors. Maintain a collaborative, inclusive, and professional tone.
+
+- 🧪 **This Is a Prototype Phase**  
+  The codebase is actively evolving. Expect frequent changes to structure, behavior, and interfaces.
+
+- 🚫 **No Monetized Submissions**  
+  Please do not submit commercial integrations, paid plugins, or monetized content at this time.
+
+> Contributions may be accepted, modified, or deferred depending on roadmap alignment.
+
+---
+
+## 🌟 Contributor Recognition
+
+Contributors who meaningfully shape GitMove may be acknowledged in future release notes, docs, or even GitMove Pro credits.
+
+Thank you for being part of the early story.
 
 – Mike Hans (@marthurhans)
+

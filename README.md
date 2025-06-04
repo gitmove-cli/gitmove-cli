@@ -21,14 +21,15 @@
 
 ### ⚖️ Licensing & Future Plans
 
-GitMove is currently under active development, and its licensing model is still under legal review.  
-The public edition of GitMove will remain open and accessible to developers.  
+GitMove is currently under active development and is released under the [MIT License](./LICENSE.md).  
+The public GitMove CLI will remain open and accessible to developers.  
 A future **GitMove Pro** edition may offer premium features for advanced users and teams.
 
 More information will be published here and at [GitMove.com](https://gitmove.com) *(coming soon!)* as development progresses.
 
 ---
 
-> “GitMove”, “GitMove Pro”, and the GitMove logo are trademarks of Mike Hans.  
-> All rights reserved. Unauthorized commercial use of the brand or logo is prohibited.
+> “GitMove”, “GitMove CLI”, “GitMove Pro”, and the GitMove logo are trademarks of Mike Hans.  
+> All rights reserved. Unauthorized use of the brand, logo, or affiliated repositories is prohibited.  
+> See [LICENSE.md](./LICENSE.md) for terms and trademark scope.
 
