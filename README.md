@@ -7,12 +7,11 @@
 </p>
 
 <div align="center">
-  <ul style="list-style: none; padding: 0; margin: 0;">
-    <li>🛡️ Protect your <code>.git</code></li>
-    <li>🚚 Use your <code>.git</code> anywhere</li>
-    <li>📦 Move your <code>.git</code> easily — even offline</li>
-  </ul>
+  <p>🛡️ Protect your <code>.git</code></p>
+  <p>🚚 Use your <code>.git</code> anywhere</p>
+  <p>📦 Move your <code>.git</code> easily — even offline</p>
 </div>
+
 
 <p align="center">
   <em>Coming Summer 2025.</em>
