@@ -3,15 +3,16 @@
 </p>
 
 <p align="center">
-  <strong style="font-size:180%">GitMove™</strong><br>
-  <span style="font-size:115%; font-style:italic;">Git out of harm’s way.</span>
+  <span style="font-size:115%; font-style:italic;">Git out of harm’s way™</span>
 </p>
 
-- 🚚 Use Git anywhere.  
-- 🛡️ Protect your `.git`.  
-- 🧘 Simplify your workflow.  
-
----
+<div align="center">
+  <ul style="list-style: none; padding: 0; margin: 0;">
+    <li>🛡️ Protect your <code>.git</code></li>
+    <li>🚚 Use your <code>.git</code> anywhere</li>
+    <li>📦 Move your <code>.git</code> easily — even offline</li>
+  </ul>
+</div>
 
 <p align="center">
   <em>Coming Summer 2025.</em>
@@ -21,15 +22,34 @@
 
 ### ⚖️ Licensing & Future Plans
 
-GitMove is currently under active development and is released under the [MIT License](./LICENSE.md).  
-The public GitMove CLI will remain open and accessible to developers.  
+GitMove is currently under active development and will be released under the [MIT License](./LICENSE.md).  
+This public GitMove CLI will remain 100% open source and fully accessible to developers.  
 A future **GitMove Pro** edition may offer premium features for advanced users and teams.
-
-More information will be published here and at [GitMove.com](https://gitmove.com) *(coming soon!)* as development progresses.
 
 ---
 
-> “GitMove”, “GitMove CLI”, “GitMove Pro”, and the GitMove logo are trademarks of Mike Hans.  
+### 📬 Early Access Interest List
+
+GitMove is currently inviting early interest from developers, solo users, and OSS supporters.
+
+You can submit your name and email at [GitMove.com](https://gitmove.com) to receive occasional project updates when major milestones are hit.
+
+- No automated emails or bulk newsletters  
+- Just personal updates from the creator  
+- Hosted securely via [Formspree.io](https://formspree.io)  
+- You’ll never be spammed or added to any third-party lists
+
+---
+
+### 👤 Created and Maintained By
+
+**Mike Hans**  
+Contact: [marthurhans@gitmove.com](mailto:marthurhans@gitmove.com)
+
+---
+
+> “GitMove”, “GitMove CLI”, “GitMove Pro”, "Git out of harm’s way™", and the GitMove logos are trademarks of Mike Hans.  
 > All rights reserved. Unauthorized use of the brand, logo, or affiliated repositories is prohibited.  
 > See [LICENSE.md](./LICENSE.md) for terms and trademark scope.
+
 

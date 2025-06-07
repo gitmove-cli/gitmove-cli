@@ -1,4 +1,7 @@
-#MIT License
+> ⚠️ This repository is being prepared for public release.  
+> No functional source code has been published yet, but the license terms below are in effect.
+
+# MIT License
 
 Copyright (c) 2025 Mike Hans
 
@@ -24,7 +27,7 @@ THE SOFTWARE.
 
 ## Trademark Notice
 
-“GitMove”, “GitMove CLI”, “GitMove Pro”, and the GitMove logo are trademarks of Mike Hans.  
+“GitMove”, “GitMove CLI”, “GitMove Pro”, "Git out of harm's way", and the GitMove logos are trademarks of Mike Hans.  
 This includes all related names, logos, and product references, including the GitHub repository:  
 👉 [https://github.com/gitmove-cli/gitmove-cli](https://github.com/gitmove-cli/gitmove-cli)
 
@@ -41,5 +44,5 @@ This license applies exclusively to the **open-source GitMove CLI**, publicly av
 👉 [https://github.com/gitmove-cli/gitmove-cli](https://github.com/gitmove-cli/gitmove-cli)
 
 A future **GitMove Pro** edition may be released under separate commercial licensing terms.  
-Visit [https://gitmove.com](https://gitmove.com) *(coming soon!)* for updates and legal information.
+Visit [https://gitmove.com](https://gitmove.com) for updates and legal information.
 

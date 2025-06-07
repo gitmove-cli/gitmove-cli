@@ -8,6 +8,15 @@ Please note: GitMove is not yet production-ready and may undergo breaking change
 
 ---
 
+## 📦 About This Repository
+
+This repository will serve as the official home of the open-source **GitMove CLI** tool.  
+It is currently being prepared for launch and does not yet contain production code.
+
+Once launched, it will include all GitMove commands, internal utilities, and CLI interface logic.
+
+---
+
 ## 🚧 Contribution Guidelines
 
 - 🛠️ **Open an Issue First**  
@@ -22,7 +31,9 @@ Please note: GitMove is not yet production-ready and may undergo breaking change
 - 🚫 **No Monetized Submissions**  
   Please do not submit commercial integrations, paid plugins, or monetized content at this time.
 
-> Contributions may be accepted, modified, or deferred depending on roadmap alignment.
+> GitMove is currently maintained by a single developer.  
+> Contributions may be reviewed or integrated gradually as time allows.  
+> Contributions may also be accepted, modified, or deferred depending on roadmap alignment.
 
 ---
 
@@ -32,5 +43,18 @@ Contributors who meaningfully shape GitMove may be acknowledged in future releas
 
 Thank you for being part of the early story.
 
+Have questions or ideas? Reach out: [marthurhans@gitmove.com](mailto:marthurhans@gitmove.com)
+
+Want to follow GitMove's journey or get early access updates? Visit [GitMove.com](https://gitmove.com)
+
+---
+
 – Mike Hans (@marthurhans)
+
+
+
+
+
+
+
 
